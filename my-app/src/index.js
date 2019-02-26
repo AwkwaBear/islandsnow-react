@@ -100,7 +100,7 @@ class FullWidthImage extends React.Component {
 class FooterMenu extends React.Component {
   render() {
     return (
-        <Container three column grid classname="footer">
+        <Container fluid three column grid id="footer">
           <Grid columns="three">
             <Grid.Row>
               <Grid.Column>
