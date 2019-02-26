@@ -4,13 +4,13 @@
   border: none;
 }
 
-.ui.borderless.midmenu.menu{
+.ui.borderless.middlemenu.menu{
   box-shadow: none;
   border: none;
 }
 
 
-.footer-background {
+.ui.footer {
 
   background-color: #292929;
  padding-top: 20px;
